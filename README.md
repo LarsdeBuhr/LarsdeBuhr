@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LarsdeBuhr
 - 👀 I’m interested in full stack development and trading bots
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, React, Java, PHP, SQL
-- 💞️ I’m looking to collaborate on great projects
 
 
 <!---
